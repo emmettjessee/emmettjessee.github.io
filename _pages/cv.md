@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Linguistics, University of Chicago, 2031 (expected)
+* M.A. in Linguistics, certificate in Culture, Language, and Social Practice, University of Colorado Boulder, 2024
+* B.A. in Linguistics, minor in LGBTQ+ & Sexuality Studies, University of Michigan, 2022
 
 Work experience
 ======
