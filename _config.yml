@@ -26,7 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Emmett Jessee"
   pronouns         : "he/they"  
-  bio              : "Ph.D. student in Linguistics"
+  bio              : "Ph.D. student in Linguistics"  
+  location         : # Place
   employer         : "University of Chicago"
   uri              : # URL
   email            : "ejessee@uchicago.edu" 
